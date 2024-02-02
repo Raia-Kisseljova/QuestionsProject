@@ -90,7 +90,7 @@ function App() {
       <Navbar />
       {/* MINI CARD WITH CONDITION TO CURE */}
       <div className="mt-15 flex flex-col w-full h-min justify-around items-center">
-        <Card title="Allergy" image="../src/assets/allergyImage.jpg" />
+        <Card title="Allergy" image="assets/allergyImage.jpg" />
       </div>
 
       {/* QUESTIONS */}
